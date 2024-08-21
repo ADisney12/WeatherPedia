@@ -1,3 +1,7 @@
+# Realtime and Past weather data
+
+Find the past or present weather of any city.
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
