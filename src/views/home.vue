@@ -34,8 +34,9 @@
             const options = {
             method: 'GET',          
             headers: {
-                'X-RapidAPI-Key': '6562b61834mshb6c3da58cac5d34p1e6edfjsn8a9a05805568',
-                'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
+              		'x-rapidapi-key': '9b0d3f9c88mshfd7b6445f1813e1p1aed44jsn0793638afda0',
+			'x-rapidapi-host': 'weather-api167.p.rapidapi.com',
+			Accept: 'application/json'
 	            }
         
             };
