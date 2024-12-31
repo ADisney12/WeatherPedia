@@ -52,8 +52,9 @@ export default{
         const options = {
                 method: 'GET',
                 headers: {
-                    'X-RapidAPI-Key': '9b0d3f9c88mshfd7b6445f1813e1p1aed44jsn0793638afda0',
-                    'X-RapidAPI-Host': 'visual-crossing-weather.p.rapidapi.com'
+                		'x-rapidapi-key': '9b0d3f9c88mshfd7b6445f1813e1p1aed44jsn0793638afda0',
+                		'x-rapidapi-host': 'weather-api167.p.rapidapi.com',
+                		Accept: 'application/json'
                 }
             };
     
